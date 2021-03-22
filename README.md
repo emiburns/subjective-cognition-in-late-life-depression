@@ -11,8 +11,8 @@ interpretation of cognition independent of objective cognition.
 
 Analyses ran for **“Differential Predictors of Self and
 Informant-Assessed Subjective Cognition in Late Life Depression”
-abstract submission** (under review, American Psychiatric Association
-(APA), lead author Emily Burns).
+abstract submission** poster (accepted by the American Psychiatric Association
+(APA) 2021 conference, lead author Emily Burns).
 
 ### Data
 
@@ -52,3 +52,5 @@ website](https://latelifedepression.ucsf.edu/alzheimer%E2%80%99s-disease-neuroim
   - **compare\_ecog\_versions.R:** Chi-squared and ANOVA tests directly
     comparing objective cognition and both ECog participant and study
     partner versions
+    
+  - **demos_and_plots.R:** includes sample demographics, clinical characteristics, and plots utilized for poster presentation
